@@ -12,6 +12,8 @@ def func(x):
 print(func(x))
 
 #my_feature分支进行的新开发内容#
+#制造冲突#
+
 #my_release分支进行的新开发内容#
 #使用idea进行操作#
 #使用idea进行一次操作#
